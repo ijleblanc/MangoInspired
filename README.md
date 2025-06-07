@@ -1,9 +1,13 @@
 # MangoInspired
-*RTSS "MangoHud"-Inspired Overlays*
+*RTSS (Riva Tunner Statistic Server) "MangoHud"-Inspired Overlays*
 
 This is a collection of 4 custom RTSS overlays inspired by Flightlessmango's MangoHud, used in gaming Linux distros like SteamOS, Bazzite, ChimeraOS, and others.
 
 These overlays aim to bring a similar style and functionality to Windows users via RivaTuner Statistics Server (RTSS).
+
+---
+
+- [MangoInspired](#MangoInspired)
 
 ## 📂 Included Overlays
 

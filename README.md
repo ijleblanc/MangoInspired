@@ -1,5 +1,5 @@
 # MangoInspired
-RTSS "MangoHud"-Inspired Overlays
+## RTSS "MangoHud"-Inspired Overlays
 
 This is a collection of 4 custom RTSS overlays inspired by Flightlessmango's MangoHud, used in gaming Linux distros like SteamOS, Bazzite, ChimeraOS, and others.
 

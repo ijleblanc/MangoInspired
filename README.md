@@ -5,8 +5,6 @@ This is a collection of 4 custom RTSS overlays inspired by Flightlessmango's Man
 
 These overlays aim to bring a similar style and functionality to Windows users via RivaTuner Statistics Server (RTSS).
 
-## 🖼️ Screenshots (Coming Soon)
-
 ## 📂 Included Overlays
 
     MangoHUD v1.ovl
@@ -36,6 +34,8 @@ These overlays aim to bring a similar style and functionality to Windows users v
     A modified version of v2 that includes all metrics from v3, but laid out more clearly. This overlay is taller, providing better readability — though it may be a bit intrusive in some games.
 
     ℹ️ These overlays are optimized for 2K resolution, but you can scale them up or down using the HotkeyHandler plugin in RTSS.
+
+## 🖼️ Screenshots (Coming Soon)
 
 ## 🎨 Customization Notes
 

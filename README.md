@@ -1,11 +1,13 @@
 # MangoInspired
-## RTSS "MangoHud"-Inspired Overlays
+RTSS "MangoHud"-Inspired Overlays
 
 This is a collection of 4 custom RTSS overlays inspired by Flightlessmango's MangoHud, used in gaming Linux distros like SteamOS, Bazzite, ChimeraOS, and others.
 
 These overlays aim to bring a similar style and functionality to Windows users via RivaTuner Statistics Server (RTSS).
 
-📂 Included Overlays
+## 🖼️ Screenshots (Coming Soon)
+
+## 📂 Included Overlays
 
     MangoHUD v1.ovl
     Simple, squared, and minimalist. Displays current FPS, frametime graph, and frametime delay.
@@ -35,13 +37,13 @@ These overlays aim to bring a similar style and functionality to Windows users v
 
     ℹ️ These overlays are optimized for 2K resolution, but you can scale them up or down using the HotkeyHandler plugin in RTSS.
 
-🎨 Customization Notes
+## 🎨 Customization Notes
 
     Each overlay includes a semi-transparent black background (25% opacity). You can change this by editing the background tile in OverlayEditor.
 
     The CPU/GPU labels in v2 and v4 are placeholders — you can replace them with your actual hardware names. Just note that longer names might mess up the spacing.
 
-📦 Requirements
+## 📦 Requirements
 
     RTSS (RivaTuner Statistics Server)
 
@@ -52,7 +54,7 @@ These overlays aim to bring a similar style and functionality to Windows users v
         HotkeyHandler.dll
         (Both included in RTSS)
 
-📥 Installation
+## 📥 Installation
 
     Open RTSS (from the Windows system tray).
 
@@ -72,7 +74,7 @@ These overlays aim to bring a similar style and functionality to Windows users v
 
     ✅ Done! The overlay should now be visible in-game.
 
-❓ FAQ
+## ❓ FAQ
 
 Q: Can I customize names, fonts, colors, or element positions?
 A: Yes! RTSS's OverlayEditor gives you full control.
@@ -91,7 +93,7 @@ A: Since I’m not using external tools like HWiNFO, AIDA64, or HWMonitor, I'm l
 
 Q: I have a question. Who can I ask?
 A: Feel free to reach out on Discord: Metallforest#5836
-🖼️ Screenshots (Coming Soon)
+
 
     I’ll upload preview images of each overlay so you can see what they look like before using them.
 

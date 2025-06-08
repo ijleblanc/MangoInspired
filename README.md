@@ -37,38 +37,33 @@ These overlays aim to bring a similar style and functionality to Windows users v
 
 ## 🎨 Customization Notes
 
-    Each overlay includes a semi-transparent black background (25% opacity). You can change this by editing the background tile in OverlayEditor.
-
-    The CPU/GPU labels in v2 and v4 are placeholders — you can replace them with your actual hardware names. Just note that longer names might mess up the spacing.
+Each overlay includes a semi-transparent black background (25% opacity). You can change this by editing the background tile in OverlayEditor. The CPU/GPU labels in v2 and v4 are placeholders, you can replace them with your actual hardware names. Just note that longer names might mess up the spacing.
 
 ## 📦 Requirements
 
-    RTSS (RivaTuner Statistics Server)
-
-    RTSS plugins:
-
-        OverlayEditor.dll
-
-        HotkeyHandler.dll
+    - RTSS (RivaTuner Statistics Server)
+    - RTSS plugins:
+        * OverlayEditor.dll
+        * HotkeyHandler.dll
         (Both included in RTSS)
 
 ## 📥 Installation
 
-    Open RTSS (from the Windows system tray).
+    1. Open RTSS (from the Windows system tray).
 
-    Click the "SETUP" button (next to "Reset").
+    2. Click the "SETUP" button (next to "Reset").
 
-    In the settings window, configure the options as shown below (I'll provide images soon).
+    3. In the settings window, configure the options as shown below (I'll provide images soon).
 
-    Go to the Plugins tab, and double-click OverlayEditor.dll.
+    4. Go to the Plugins tab, and double-click OverlayEditor.dll.
 
-    In OverlayEditor:
+    5. In OverlayEditor:
 
-        Click Layouts > Load or press Ctrl+L
+        5.1 Click Layouts > Load or press Ctrl+L
 
-        Select any of the .ovl files from this pack
+        5.2 Select any of the .ovl files from this pack
 
-    To save changes, go to Layouts > Save or press Ctrl+S
+    6. To save changes, go to Layouts > Save or press Ctrl+S
 
     ✅ Done! The overlay should now be visible in-game.
 

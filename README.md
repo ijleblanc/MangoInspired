@@ -98,10 +98,6 @@ A: Since I’m not using external tools like HWiNFO, AIDA64, or HWMonitor, I'm l
 Q: I have a question. Who can I ask?
 A: Feel free to reach out on Discord: Metallforest#5836
 
-
-    I’ll upload preview images of each overlay so you can see what they look like before using them.
-
-You can upload images using GitHub’s drag-and-drop interface or host them in a folder like /images/overlay1.png.
 📝 License
 
 These overlays are free to use, modify, and share. Attribution is appreciated but not required.

@@ -1,5 +1,5 @@
 # MangoInspired
-*RTSS (Riva Tunner Statistic Server) "MangoHud"-Inspired Overlays*
+*RTSS (Riva Tunner Statistic Server) "MangoHud" Inspired Overlays*
 
 This is a collection of 4 custom RTSS overlays inspired by Flightlessmango's MangoHud, used in gaming Linux distros like SteamOS, Bazzite, ChimeraOS, and others.
 
@@ -17,25 +17,19 @@ These overlays aim to bring a similar style and functionality to Windows users v
     MangoHUD v2.ovl
     A horizontal layout inspired by MangoHud. Includes:
 
-        FPS, frametime delay & graph
-
-        1% lows
-
-        GPU usage, temperature, VRAM, and power
-
-        CPU usage, temperature, and power
-
-        RAM usage
-
-        Render API, screen resolution
-
-        Date and 12-hour clock
+        - FPS, frametime delay & graph
+        - 1% lows
+        - GPU usage, temperature, VRAM, and power
+        - CPU usage, temperature, and power
+        - RAM usage
+        - Render API, screen resolution
+        - Date and 12-hour clock
 
     MangoHUD v3.ovl
-    An expanded version of v1 with everything from v2, plus 0.1% lows.
+    An expanded version of v1 with all the metrics from v2, plus the 0.1% lows.
 
     MangoHUD v4.ovl
-    A modified version of v2 that includes all metrics from v3, but laid out more clearly. This overlay is taller, providing better readability — though it may be a bit intrusive in some games.
+    A modified version of v2, but laid out more clearly. This overlay is taller, providing better readability — though it may be a bit intrusive in some games.
 
     ℹ️ These overlays are optimized for 2K resolution, but you can scale them up or down using the HotkeyHandler plugin in RTSS.
 
